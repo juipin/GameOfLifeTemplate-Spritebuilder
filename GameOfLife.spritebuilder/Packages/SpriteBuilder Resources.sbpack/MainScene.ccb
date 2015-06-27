@@ -210,6 +210,8 @@
 						<string>Grid.ccb</string>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -352,7 +354,7 @@
 										<key>displayName</key>
 										<string>CCLabelTTF</string>
 										<key>memberVarAssignmentName</key>
-										<string></string>
+										<string>_generationLabel</string>
 										<key>memberVarAssignmentType</key>
 										<integer>1</integer>
 										<key>properties</key>
@@ -372,8 +374,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>42.558609008789062</real>
-													<real>19</real>
+													<real>43.558609008789062</real>
+													<real>17.171890258789062</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -559,7 +561,7 @@
 										<key>displayName</key>
 										<string>CCLabelTTF</string>
 										<key>memberVarAssignmentName</key>
-										<string></string>
+										<string>_polulationLabel</string>
 										<key>memberVarAssignmentType</key>
 										<integer>1</integer>
 										<key>properties</key>
@@ -753,8 +755,6 @@
 												</array>
 											</dict>
 										</array>
-										<key>selected</key>
-										<true/>
 									</dict>
 									<dict>
 										<key>UUID</key>
@@ -988,7 +988,7 @@
 										<key>displayName</key>
 										<string>CCLabelTTF</string>
 										<key>memberVarAssignmentName</key>
-										<string>_polulationLabel</string>
+										<string></string>
 										<key>memberVarAssignmentType</key>
 										<integer>1</integer>
 										<key>properties</key>
